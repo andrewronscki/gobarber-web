@@ -36,3 +36,7 @@ Após criar a imagem basta criar o container digitando o seguinte comando:
 Abrir navegador e digitar:
 
 #### `http://localhost:8000`
+
+## Para testar as funcionalidades é necessário iniciar o backend da aplicação
+
+#### https://github.com/andrewronscki/gobarber-api
